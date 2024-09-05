@@ -104,4 +104,9 @@ const scorer =67;
  }
  console.log(myObject);
  //******** Functions***
- //function(){} basic syntax
+ //function(){} basic syntax => add variable and run console inside the curlybraces
+const myFunction = function(){
+    console.log("Hello WOrld");
+}
+//**Data Type----to find this pass variable inside the typeof */
+console.log(typeof myObject);
