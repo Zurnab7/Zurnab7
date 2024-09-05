@@ -109,4 +109,4 @@ const myFunction = function(){
     console.log("Hello WOrld");
 }
 //**Data Type----to find this pass variable inside the typeof */
-console.log(typeof myObject);
+//************Memmory=Stack (Stack) and Heap (Non-Primitve)**************/
