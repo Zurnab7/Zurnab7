@@ -85,5 +85,23 @@ console.log((3 + 9) * 6);
 //console.log("2"==2); strickly checked, will not show equal as strings != number
 //************ DATA TYPES **********to store and access the data by using these data types
 // Primitive types
-///hdkehkjhedkjedkj
-console.log
+//type: String, Number, Boolean, null,undefined, Symbol, BigInt
+//non-primitive/reffernce
+//array, objects, functions
+const scorer =67;
+ const scorersValue =67.90;
+ const id = Symbol( "1,22,2");
+ const anotherId = Symbol("1,22,2");
+ console.log(id == anotherId);
+ const BigInt =6846639260n;
+ //***Array use big bracet***
+ const myArray = ["hitesh",23, "doga"];
+ console.log(myArray);
+ //*****Objects pass key value in the  curlybrcaes******/
+ const myObject ={
+    age:23,
+    class:"Three",
+ }
+ console.log(myObject);
+ //******** Functions***
+ //function(){} basic syntax
