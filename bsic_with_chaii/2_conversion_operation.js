@@ -86,6 +86,4 @@ console.log((3 + 9) * 6);
 //************ DATA TYPES **********to store and access the data by using these data types
 // Primitive types
 ///hdkehkjhedkjedkj
-let bun= 'hji';
-console.log(bun);
-///
+
