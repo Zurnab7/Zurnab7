@@ -110,7 +110,7 @@ const myFunction = function(){
 }
 //**Data Type----to find this pass variable inside the typeof */
 //************Memmory=Stack (Stack) and Heap (Non-Primitve)**************/
-//**************Strings using backstick =string interppolation*******by using backstickwe will directly inject our variable in the console as using ${}
+//**************Strings using backstick =string interppolation*******by using backstick we will directly inject our variable in the console as using ${}
 const back ="hitexsh";
 const backAge =56;
 console.log(`he is my favourte ${back} repo and must be my good friend ${backAge}`);
@@ -121,3 +121,8 @@ console.log(hundred.toLocaleString('eng'))
 console.log(Math)
 //Math.abs is absolute to convert the -ive value into +ive
 console.log(Math.abs(-4))
+//formula for math as we want to add plus onein the floor value to get value betwwen min and max
+console.log(Math.floor(Math.random()*10)+1) 
+const min =10;
+const max = 20;
+console.log(Math.floor(Math.random() * (max - min +1 ))+ min) ;
