@@ -118,3 +118,6 @@ console.log(`he is my favourte ${back} repo and must be my good friend ${backAge
 let hundred=1000;
 console.log(hundred.toLocaleString('eng'))
 //*************Maths******* */
+console.log(Math)
+//Math.abs is absolute to convert the -ive value into +ive
+console.log(Math.abs(-4))
