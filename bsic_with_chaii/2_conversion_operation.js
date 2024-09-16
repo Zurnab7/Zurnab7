@@ -110,3 +110,8 @@ const myFunction = function(){
 }
 //**Data Type----to find this pass variable inside the typeof */
 //************Memmory=Stack (Stack) and Heap (Non-Primitve)**************/
+//**************Strings using backstick =string interppolation*******by using backstickwe will directly inject our variable in the console as using ${}
+const back ="hitexsh";
+const backAge =56;
+console.log(`he is my favourte ${back} repo and must be my good friend ${backAge}`);
+//*********************NUmber + Mathsms;s; ******************/
