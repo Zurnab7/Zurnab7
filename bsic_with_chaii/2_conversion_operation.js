@@ -115,3 +115,6 @@ const back ="hitexsh";
 const backAge =56;
 console.log(`he is my favourte ${back} repo and must be my good friend ${backAge}`);
 //*********************NUmber + Mathsms;s; ******************/
+let hundred=1000;
+console.log(hundred.toLocaleString('eng'))
+//*************Maths******* */
