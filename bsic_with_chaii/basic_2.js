@@ -6,4 +6,6 @@ const myArray =[0,1,2,3,4,5,9];
 //myArray.shift(); it will remove the starting point as opposite to unshift
 //console.log(myArray.includes(9));describe us the elements is present inside the array or not
 //console.log(myArray.indexOf(9)); describe the indexing of element in the array
+myArray =newArray.join();
 console.log(myArray);
+console.log(newArray);
